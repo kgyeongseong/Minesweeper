@@ -6,4 +6,4 @@
 <img src="https://github.com/kgyeongseong/Minesweeper/blob/main/Minesweeper_Intermediate_1.png" width="96%" align="left">
 <br><br><br><br><br><br>
 <h1>Advanced</h1>
-<img src="https://github.com/kgyeongseong/Minesweeper/blob/main/Minesweeper_Advanced_1.png" width="96%">
+<img src="https://github.com/kgyeongseong/Minesweeper/blob/main/Minesweeper_Advanced_1.png" width="96%" align="left">
